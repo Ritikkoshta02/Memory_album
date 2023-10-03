@@ -5,7 +5,7 @@
 # Introduction
 
 
-Album(Memories) is a simple social media application that allows users to post and share interesting events and memories from their lives. This full-stack MERN (MongoDB, Express.js, React, Node.js) application provides users with the ability to create, read, update, and delete their memories. It also includes features like renaming posts, clickable tags, and a user-friendly interface.
+Memories is a simple social media application that allows users to post and share interesting events and memories from their lives. This full-stack MERN (MongoDB, Express.js, React, Node.js) application provides users with the ability to create, read, update, and delete their memories. It also includes features like renaming posts, clickable tags, and a user-friendly interface.
 
 
 ## Features
