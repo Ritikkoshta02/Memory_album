@@ -1,6 +1,6 @@
 # Memories
 
-![Memories](https://github.com/harshii05/Album/blob/master/Screenshot%20(35).png)
+![Memories]([https://github.com/harshii05/Album/blob/master/Screenshot%20(35).png](https://github.com/Ritikkoshta02/Memory_album/blob/master/Screenshot%20(35).png))
 
 # Introduction
 
